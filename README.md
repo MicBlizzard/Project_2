@@ -20,10 +20,12 @@ We used the following libraries:
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [keras](https://keras.io/)
 * [tensorflow](https://www.tensorflow.org/install/)
+* [Matplotlib] (https://matplotlib.org/)
 * [numpy](https://numpy.org/)
 * [pandas](https://https://pandas.pydata.org/)
-* [tqdm]
-* []
+* [tqdm] (https://tqdm.github.io/)
+* [opencv] (https://opencv.org/)
+
 ## Python code
 
 We have created several python files that allow us to achieve our goal:
