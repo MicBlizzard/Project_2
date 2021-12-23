@@ -25,6 +25,10 @@ We used the following libraries:
 * [pandas](https://https://pandas.pydata.org/)
 * [tqdm](https://tqdm.github.io/)
 * [opencv](https://opencv.org/)
+* [os](https://docs.python.org/3/library/os.html)
+* [sys](https://docs.python.org/fr/3/library/sys.html)
+* [glob](https://docs.python.org/3/library/glob.html)
+* [Random](https://docs.python.org/3/library/random.html)
 
 ## Python code
 
